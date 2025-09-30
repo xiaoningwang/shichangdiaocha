@@ -15,9 +15,11 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# 介绍
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+本部分主要围绕全国大学生市场调查与分析大赛介绍常见的统计方法、分析思路等。
+
+
 
 ## Usage 
 
